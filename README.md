@@ -3,6 +3,12 @@
 <p><img src="https://github.com/Roblox-Thot/RobloxMouseFix/actions/workflows/python-app.yml/badge.svg" alt="Build"></p>
 </div>
 
+<div align="center">
+<h1 id="roblox-mouse-fix">⚠️ This sucks dick ⚠️</h1>
+<p>Use this one instead <a href="https://github.com/Roblox-Thot/UWPMouseFix">Roblox-Thot/UWPMouseFix</a></p>
+</div>
+
+
 # Instructions
 1. Get the download from [releases](https://github.com/Roblox-Thot/RobloxMouseFix/releases/latest), the most recent [action artifact](https://github.com/Roblox-Thot/RobloxMouseFix/actions/workflows/python-app.yml), or just the [source code](./mouse.py)
 2. Open Roblox UWP
